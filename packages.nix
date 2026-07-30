@@ -16,6 +16,7 @@
   quickshell
   fastfetch
   pkgs.awww
+  cava
   ];
   
   # Fonts

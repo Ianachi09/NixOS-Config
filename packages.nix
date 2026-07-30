@@ -30,7 +30,8 @@
  };
 
  programs.fish.enable = true;
+
  programs.fish.shellAbbrs = {
-  sysupdate = "sudo nixos-rebuild switch --flake  ~/.config/nixos"
- }
+  sysupdate = "sudo nixos-rebuild switch --flake  ~/.config/nixos";
+ };
 }
